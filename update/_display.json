@@ -1,0 +1,1786 @@
+[
+	{
+		"title": "首页",
+		"type": "Home",
+		"sections": [
+			{
+				"type":"banner",
+				"uiGroup":"top",
+				"title":"最新优惠"
+			},
+			{
+				"type":"announcement",
+				"uiGroup":"top",
+				"title":"公告"
+			},
+			{
+				"type":"jackpot",
+				"uiGroup":"top",
+				"title":"累积奖池"
+			},
+			{
+				"type":"RPentertainment",
+				"uiGroup":"sport",
+				"title":"体育",
+				"elements":[
+					{
+						"title":"沙巴体育",
+						"type":"goGame",
+						"imgTag":"SBS",
+						"codeTag":"SBSSPORT",
+						"gameName":"沙巴体育",
+						"gameProvider":"SBS",
+						"gameId":"1",
+						"groupId":""
+					},
+					{
+						"title":"SBO体育",
+						"type":"goGame",
+						"imgTag":"SBO",
+						"codeTag":"SBOSPORT",
+						"gameName":"SBO体育",
+						"gameProvider":"SBO",
+						"gameId":"1",
+						"groupId":""
+					}
+				]
+			},
+			{
+				"type":"promo",
+				"uiGroup":"slot",
+				"title":"老虎机",
+				"elements":[
+					{
+						"title":"PT",
+						"type":"goPages",
+						"imgURL":"https://www.zzmtym.com/site/dj/APP/PT.png",
+						"codeTag":"PT2ESLOTTags,PT4SLOT"
+					},
+					{
+						"title":"PG",
+						"type":"goPages",
+						"imgURL":"https://www.zzmtym.com/site/dj/APP/PG.png",
+						"codeTag":"PGSLOT"
+					},
+					{
+						"title":"AE",
+						"type":"goPages",
+						"imgURL":"https://www.zzmtym.com/site/dj/APP/AE.png",
+						"codeTag":"AESLOT"
+					},
+					{
+						"title":"CQ9",
+						"type":"goPages",
+						"imgURL":"https://www.zzmtym.com/site/dj/APP/CQ9.png",
+						"codeTag":"CQSLOT"
+					},
+					{
+						"title":"PP",
+						"type":"goPages",
+						"imgURL":"https://www.zzmtym.com/site/dj/APP/PP.png",
+						"codeTag":"PPSLOT"
+					},
+					{
+						"title":"PS",
+						"type":"goPages",
+						"imgURL":"https://www.zzmtym.com/site/dj/APP/PSR.png",
+						"codeTag":"PSRSLOT"
+					},
+					{
+						"title":"JDB",
+						"type":"goPages",
+						"imgURL":"https://www.zzmtym.com/site/dj/APP/JDBS.png",
+						"codeTag":"JDBSSLOT"
+					},
+					{
+						"title":"MG",
+						"type":"goPages",
+						"imgURL":"https://www.zzmtym.com/site/dj/APP/MG.png",
+						"codeTag":"MGPSLOT"
+					},
+					{
+						"title":"HB",
+						"type":"goPages",
+						"imgURL":"https://www.zzmtym.com/site/dj/APP/HB.png",
+						"codeTag":"HBSLOT"
+					},
+					{
+						"title":"FG",
+						"type":"goPages",
+						"imgURL":"https://www.zzmtym.com/site/dj/APP/FG.png",
+						"codeTag":"FGSLOT"
+					},
+					{
+						"title":"PNG",
+						"type":"goPages",
+						"imgURL":"https://www.zzmtym.com/site/dj/APP/PNG.png",
+						"codeTag":"PNGSLOT"
+					},
+					{
+						"title":"NT",
+						"type":"goPages",
+						"imgURL":"https://www.zzmtym.com/site/dj/APP/NT.png",
+						"codeTag":"NTSLOT"
+					},
+					{
+						"title":"BS",
+						"type":"goPages",
+						"imgURL":"https://www.zzmtym.com/site/dj/APP/BS.png",
+						"codeTag":"BSSLOT"
+					},
+					{
+						"title":"SG",
+						"type":"goPages",
+						"imgURL":"https://www.zzmtym.com/site/dj/APP/SG.png",
+						"codeTag":"SGSLOT"
+					},
+					{
+						"title":"SW",
+						"type":"goPages",
+						"imgURL":"https://www.zzmtym.com/site/dj/APP/SW.png",
+						"codeTag":"SWSSLOT"
+					},
+					{
+						"title":"DT",
+						"type":"goPages",
+						"imgURL":"https://www.zzmtym.com/site/dj/APP/DT.png",
+						"codeTag":"DTSLOT"
+					}
+				]
+			},
+			{
+				"type":"RPentertainment",
+				"uiGroup":"entertainment",
+				"title":"真人",
+				"imgTag":"LIVE",
+				"elements":[
+					{
+						"title":"AG真人",
+						"type":"goGame",
+						"codeTag":"AGLIVE",
+						"gameName":"AG真人",
+						"gameProvider":"AG",
+						"gameId":"0",
+						"groupId":""
+					},
+					{
+						"title":"Ebet真人",
+						"type":"goGame",
+						"codeTag":"EBLIVE",
+						"gameName":"Ebet真人",
+						"gameProvider":"EB",
+						"gameId":"6",
+						"groupId":""
+					}
+				]
+			},
+			{
+				"type":"RPentertainment",
+				"uiGroup":"entertainment",
+				"title":"棋牌",
+				"imgTag":"POKER",
+				"elements":[
+					{
+						"title":"大奖棋牌",
+						"type":"goPages",
+						"codeTag":"LCPOKER",
+						"gameName":"大奖棋牌"
+					},
+					{
+						"title":"美天棋牌",
+						"type":"goPages",
+						"codeTag":"MTPOKER",
+						"gameName":"美天棋牌"
+					},
+					{
+						"title":"开元棋牌",
+						"type":"goPages",
+						"codeTag":"KYPOKER",
+						"gameName":"开元棋牌"
+					},
+					{
+						"title":"乐游棋牌",
+						"type":"goPages",
+						"codeTag":"LEGPOKER",
+						"gameName":"乐游棋牌"
+					},
+					{
+						"title":"高登棋牌",
+						"type":"goPages",
+						"codeTag":"GDQPOKER",
+						"gameName":"高登棋牌"
+					}
+				]
+			},
+			{
+				"type":"RPentertainment",
+				"uiGroup":"entertainment",
+				"title":"捕鱼",
+				"imgTag":"HUNTER",
+				"elements":[
+					{
+						"title":"MT捕鱼",
+						"type":"goPages",
+						"codeTag":"MTHUNTER",
+						"gameName":"MT捕鱼"
+					},
+					{
+						"title":"AG捕鱼",
+						"type":"goGame",
+						"codeTag":"AGHUNTER",
+						"gameName":"AG捕鱼",
+						"gameProvider":"AG",
+						"gameId":"6",
+						"groupId":""
+					},
+					{
+						"title":"JDB捕鱼",
+						"type":"goPages",
+						"codeTag":"JDBHUNTER",
+						"gameName":"JDB捕鱼"
+					},
+					{
+						"title":"TG捕鱼",
+						"type":"goPages",
+						"codeTag":"TGHUNTER",
+						"gameName":"TG捕鱼"
+					}
+				]
+			},
+			{
+				"type":"RPentertainment",
+				"uiGroup":"entertainment",
+				"title":"电竞",
+				"imgTag":"SPORT",
+				"elements":[
+					{
+						"title":"沙巴电竞",
+						"type":"goGame",
+						"codeTag":"SBSSPORT",
+						"gameName":"沙巴电竞",
+						"gameProvider":"SBS",
+						"gameId":"43,0,l",
+						"groupId":""
+					},
+					{
+						"title":"IM电竞",
+						"type":"goGame",
+						"codeTag":"IMESSPORT",
+						"gameName":"IM电竞",
+						"gameProvider":"IMES",
+						"gameId":"ESPORTSBULL",
+						"groupId":""
+					},
+					{
+						"title":"SBO电竞",
+						"type":"goGame",
+						"codeTag":"SBOSPORT",
+						"gameName":"SBO电竞",
+						"gameProvider":"SBO",
+						"gameId":"1",
+						"groupId":""
+					}
+				]
+			},
+			{
+				"type":"RPentertainment",
+				"uiGroup":"entertainment",
+				"title":"彩票",
+				"imgTag":"LOTTERY",
+				"elements":[
+					{
+						"title":"VR彩票",
+						"type":"goGame",
+						"codeTag":"VRLOTTERY",
+						"gameName":"VR彩票",
+						"gameProvider":"VR",
+						"gameId":"3",
+						"groupId":""
+					},
+					{
+						"title":"TC彩票",
+						"type":"goGame",
+						"codeTag":"TCLOTTERY",
+						"gameName":"TC彩票",
+						"gameProvider":"TC",
+						"gameId":"2",
+						"groupId":""
+					}
+				]
+			},
+			{
+				"type":"event",
+				"uiGroup":"event",
+				"title":"赛事",
+				"elements":[
+					{
+						"codeTag":"SBSSPORT",
+						"gameName":"沙巴体育",
+						"gameProvider":"SBS",
+						"gameId":"1",
+						"groupId":""
+					}
+				]
+			},
+			{
+				"type":"Recommend",
+				"uiGroup":"recommend",
+				"title":"推荐游戏",
+				"elements":[
+					{
+						"title":"PT",
+						"type":"goPages",
+						"imgTag":"PT",
+						"codeTag":"PT2ESLOTTags,PT4SLOT"
+					},
+					{
+						"title":"CQ9",
+						"type":"goPages",
+						"imgTag":"CQ9",
+						"codeTag":"CQSLOT"
+					},
+					{
+						"title":"MG",
+						"type":"goPages",
+						"imgTag":"MG",
+						"codeTag":"MGPSLOT"
+					},
+					{
+						"title":"PS",
+						"type":"goPages",
+						"imgTag":"PS",
+						"codeTag":"PSRSLOT"
+					}
+				]
+			}
+		]
+	},
+    {
+        "title": "游戏页",
+        "type": "Game",
+        "sections": [
+            {
+                "title": "老虎机",
+                "sections": [
+                    {
+                        "type": "",
+                        "title": "老虎机游戏平台",
+						"preview": 4,
+                        "elements": [
+                            {
+                                "title": "PT",
+                                "type": "goPages",
+                                "imgURL": "https://www.zzmtym.com/site/dj/APP/Games/PT.png",
+                                "codeTag": "PT2ESLOTTags,PT4SLOT"
+                            },
+                            {
+                                "title": "SW",
+                                "type": "goPages",
+                                "imgURL": "https://www.zzmtym.com/site/dj/APP/Games/SW.png",
+                                "codeTag": "SWSSLOT"
+                            },
+							{
+                                "title": "MG",
+                                "type": "goPages",
+                                "imgURL": "https://www.zzmtym.com/site/dj/APP/Games/MG.png",
+                                "codeTag": "MGPSLOT"
+                            },
+                            {
+                                "title": "AE",
+                                "type": "goPages",
+                                "imgURL": "https://www.zzmtym.com/site/dj/APP/Games/AE.png",
+                                "codeTag": "AESLOT"
+                            },
+							{
+                                "title": "PP",
+                                "type": "goPages",
+                                "imgURL": "https://www.zzmtym.com/site/dj/APP/Games/PP.png",
+                                "codeTag": "PPSLOT"
+                            },
+							{
+                                "title": "HB",
+                                "type": "goPages",
+                                "imgURL": "https://www.zzmtym.com/site/dj/APP/Games/HB.png",
+                                "codeTag": "HBSLOT"
+                            },
+							{
+                                "title": "BS",
+                                "type": "goPages",
+                                "imgURL": "https://www.zzmtym.com/site/dj/APP/Games/BS.png",
+                                "codeTag": "BSSLOT"
+                            },
+							{
+                                "title": "PG",
+                                "type": "goPages",
+                                "imgURL": "https://www.zzmtym.com/site/dj/APP/Games/PG.png",
+                                "codeTag": "PGSLOT"
+                            },
+                            {
+                                "title": "CQ9",
+                                "type": "goPages",
+                                "imgURL": "https://www.zzmtym.com/site/dj/APP/Games/CQ9.png",
+                                "codeTag": "CQSLOT"
+                            },
+							{
+                                "title": "FG",
+                                "type": "goPages",
+                                "imgURL": "https://www.zzmtym.com/site/dj/APP/Games/FG.png",
+                                "codeTag": "FGSLOT"
+                            },
+                            {
+                                "title": "PNG",
+                                "type": "goPages",
+                                "imgURL": "https://www.zzmtym.com/site/dj/APP/Games/PNG.png",
+                                "codeTag": "PNGSLOT"
+                            },
+                            {
+                                "title": "NT",
+                                "type": "goPages",
+                                "imgURL": "https://www.zzmtym.com/site/dj/APP/Games/NT.png",
+                                "codeTag": "NTSLOT"
+                            },
+							{
+                                "title": "SG",
+                                "type": "goPages",
+                                "imgURL": "https://www.zzmtym.com/site/dj/APP/Games/SG.png",
+                                "codeTag": "SGSLOT"
+                            },
+							{
+                                "title": "DT",
+                                "type": "goPages",
+                                "imgURL": "https://www.zzmtym.com/site/dj/APP/Games/DT.png",
+                                "codeTag": "DTSLOT"
+                            },
+                            {
+                                "title": "PS",
+                                "type": "goPages",
+                                "imgURL": "https://www.zzmtym.com/site/dj/APP/Games/PSR.png",
+                                "codeTag": "PSRSLOT"
+                            },
+                            {
+                                "title": "JDB",
+                                "type": "goPages",
+                                "imgURL": "https://www.zzmtym.com/site/dj/APP/Games/JDBS.png",
+                                "codeTag": "JDBSSLOT"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "RPentertainment",
+                        "title": "热门推荐",
+                        "preview": 2,
+                        "elements": [
+							{
+								"gameProvider": "SWS",
+                                "gameId": "sw_sl",
+                                "gameName": "四灵",
+								"imgURL": "https://www.zzmtym.com/game/sw/sw_sl.jpg",
+                                "groupId": ""
+                            },
+							{
+                                "gameProvider": "SWS",
+                                "gameId": "sw_lll",
+                                "gameName": "龙龙龙",
+								"imgURL": "https://www.zzmtym.com/game/sw/sw_lll.jpg",
+                                "groupId": ""
+                            },
+							{
+								"gameProvider": "CQ",
+                                "gameId": "52",
+                                "gameName": "跳高高",
+								"imgURL": "https://www.zzmtym.com/game/cq9/52.jpg",
+                                "groupId": "CQ9"
+                            },
+							{
+								"gameProvider": "CQ",
+                                "gameId": "7",
+                                "gameName": "跳起来",
+								"imgURL": "https://www.zzmtym.com/game/cq9/7.jpg",
+                                "groupId": "CQ9"
+                            },
+							{
+								"gameProvider": "AE",
+                                "gameId": "41",
+                                "gameName": "冰上曲棍球",
+								"imgURL": "https://www.zzmtym.com/game/ae/41.jpg",
+                                "groupId": ""
+                            },
+							{
+                                "gameProvider": "AE",
+                                "gameId": "42",
+                                "gameName": "古怪猴子5000倍",
+								"imgURL": "https://www.zzmtym.com/game/ae/42.jpg",
+                                "groupId": ""
+                            },
+                            {
+								"gameProvider": "PSR",
+                                "gameId": "PSS-ON-00019",
+                                "gameName": "天子",
+								"imgURL": "https://www.zzmtym.com/game/ps/19.png",
+                                "groupId": ""
+                            },
+                            {
+                                "gameProvider": "PSR",
+                                "gameId": "PSS-ON-00009",
+                                "gameName": "凯洛琳夫人",
+								"imgURL": "https://www.zzmtym.com/game/ps/9.png",
+                                "groupId": ""
+                            },
+                            {
+								"gameProvider": "HB",
+                                "gameId": "f4ca1682-a8b9-48d1-abd0-204e1747c3b9",
+                                "gameName": "双喜熊猫",
+								"imgURL": "https://www.zzmtym.com/game/hb/SGPandaPanda.jpg",
+                                "groupId": "SGPandaPanda"
+                            },
+                            {
+                                "gameProvider": "HB",
+                                "gameId": "7e27bcdd-2087-4d83-b218-7152146a6bf4",
+                                "gameName": "发财神",
+								"imgURL": "https://www.zzmtym.com/game/hb/SGFaCaiShen.jpg",
+                                "groupId": "SGFaCaiShen"
+                            },
+							{
+                                "gameProvider": "AG",
+                                "gameId": "6",
+                                "gameName": "AG捕鱼",
+								"imgURL": "https://www.zzmtym.com/site/dj/APP/AGFish.png",
+                                "groupId": ""
+                            },
+							{
+                                "gameProvider": "JDB",
+                                "gameId": "7003",
+                                "gameName": "JDB财神捕鱼",
+								"imgURL": "https://www.zzmtym.com/site/dj/APP/JDBFish.png",
+                                "groupId": "HUNTER"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "RPentertainment",
+                        "title": "累积奖池",
+                        "preview": 2,
+                        "elements": [
+                            {
+								"gameProvider": "PT4",
+                                "gameId": "fmjp",
+                                "gameName": "古怪猴子彩池",
+								"imgURL": "https://www.zzmtym.com/game/pt/fmjp.jpg",
+                                "groupId": ""
+                            },
+                            {
+								"gameProvider": "PT4",
+                                "gameId": "grbjp",
+                                "gameName": "湛蓝深海彩池",
+								"imgURL": "https://www.zzmtym.com/game/pt/grbjp.jpg",
+                                "groupId": ""
+                            },
+                            {
+								"gameProvider": "PT4",
+                                "gameId": "aztec",
+                                "gameName": "印加帝国头奖",
+								"imgURL": "https://www.zzmtym.com/game/pt/aztec.jpg",
+                                "groupId": ""
+                            },
+                            {
+								"gameProvider": "PT4",
+                                "gameId": "nian",
+                                "gameName": "年年有余",
+								"imgURL": "https://www.zzmtym.com/game/pt/nian.jpg",
+                                "groupId": ""
+                            },
+							{
+								"gameProvider": "PT4",
+                                "gameId": "zcjbjp",
+                                "gameName": "招财进宝彩池",
+								"imgURL": "https://www.zzmtym.com/game/pt/zcjbjp.jpg",
+                                "groupId": ""
+                            },
+							{
+								"gameProvider": "PT4",
+                                "gameId": "jpgt",
+                                "gameName": "奖金巨人",
+								"imgURL": "https://www.zzmtym.com/game/pt/jpgt.jpg",
+                                "groupId": ""
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "title": "娱乐厅",
+                "sections": [
+                    {
+                        "type": "RPentertainment",
+                        "title": "体育",
+						"guide":true,
+                        "elements": [
+                            {
+                                "title": "沙巴体育",
+                                "type": "goGame",
+                                "imgURL": "https://www.zzmtym.com/site/dj/APP/SBS.png",
+                                "codeTag": "SBSSPORT",
+                                "gameName": "沙巴体育",
+                                "gameProvider": "SBS",
+                                "gameId": "1",
+                                "groupId": ""
+                            },
+							{
+								"title":"SBO体育",
+								"type":"goGame",
+								"imgURL": "https://www.zzmtym.com/site/dj/APP/SBO.png",
+                                "codeTag": "SBOSPORT",
+                                "gameName": "SBO体育",
+                                "gameProvider": "SBO",
+                                "gameId": "1",
+                                "groupId": ""
+							}
+                        ]
+                    },
+                    {
+                        "type": "RPentertainment",
+                        "title": "真人",
+                        "elements": [
+                            {
+                                "title": "AG真人",
+                                "type": "goGame",
+                                "imgURL": "https://www.zzmtym.com/site/dj/APP/AGLive.png",
+                                "codeTag": "AGLIVE",
+                                "gameName": "AG真人",
+                                "gameProvider": "AG",
+                                "gameId": "0",
+                                "groupId": ""
+                            },
+                            {
+                                "title": "Ebet真人",
+                                "type": "goGame",
+                                "imgURL": "https://www.zzmtym.com/site/dj/APP/EBLive.png",
+                                "codeTag": "EBLIVE",
+                                "gameName": "Ebet真人",
+                                "gameProvider": "EB",
+                                "gameId": "6",
+                                "groupId": ""
+                            }
+                        ]
+                    },
+                    {
+                        "type": "RPentertainment",
+                        "title": "捕鱼",
+                        "elements": [
+							{
+								"title":"TG捕鱼",
+								"type": "goPages",
+								"imgURL":"https://www.zzmtym.com/site/dj/APP/TGFish.png",
+								"codeTag":"TGHUNTER",
+								"gameName":"TG捕鱼"
+							},
+                            {
+                                "title": "MT捕鱼",
+                                "type": "goPages",
+                                "imgURL": "https://www.zzmtym.com/site/dj/APP/MTFish.png",
+                                "codeTag": "MTHUNTER",
+								"gameName": "MT捕鱼"
+                            },
+                            {
+                                "title": "AG捕鱼",
+                                "type": "goGame",
+                                "imgURL": "https://www.zzmtym.com/site/dj/APP/AGFish.png",
+								"codeTag": "AGHUNTER",
+                                "gameName": "AG捕鱼",
+                                "gameProvider": "AG",
+                                "gameId": "6"
+                            },
+                            {
+                                "title": "JDB捕鱼",
+                                "type": "goPages",
+                                "imgURL": "https://www.zzmtym.com/site/dj/APP/JDBFish.png",
+                                "codeTag": "JDBHUNTER",
+								"gameName": "JDB捕鱼"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "RPentertainment",
+                        "title": "棋牌",
+                        "elements": [
+                            {
+                                "title": "大奖棋牌",
+                                "type": "goPages",
+                                "imgURL": "https://www.zzmtym.com/site/dj/APP/LCBoardGame.png",
+                                "codeTag": "LCPOKER",
+								"gameName": "大奖棋牌"
+                            },
+                            {
+                                "title": "美天棋牌",
+                                "type": "goPages",
+                                "imgURL": "https://www.zzmtym.com/site/dj/APP/MTBoardGame.png",
+                                "codeTag": "MTPOKER",
+								"gameName": "美天棋牌"
+                            },
+                            {
+                                "title": "开元棋牌",
+                                "type": "goPages",
+                                "imgURL": "https://www.zzmtym.com/site/dj/APP/KYBoardGame.png",
+                                "codeTag": "KYPOKER",
+								"gameName": "开元棋牌"
+                            },
+                            {
+                                "title": "乐游棋牌",
+                                "type": "goPages",
+                                "imgURL": "https://www.zzmtym.com/site/dj/APP/LEGBoardGame.png",
+                                "codeTag": "LEGPOKER",
+								"gameName": "乐游棋牌"
+                            },
+                            {
+                                "title": "高登棋牌",
+                                "type": "goPages",
+                                "imgURL": "https://www.zzmtym.com/site/dj/APP/GDQBoardGame.png",
+                                "codeTag": "GDQPOKER",
+								"gameName": "高登棋牌"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "RPentertainment",
+                        "title": "电竞",
+						"guide":true,
+                        "elements": [
+                            {
+                                "title": "沙巴电竞",
+                                "type": "goGame",
+                                "imgURL": "https://www.zzmtym.com/site/dj/APP/SBES.png",
+                                "codeTag": "SBSSPORT",
+                                "gameName": "沙巴电竞",
+                                "gameProvider": "SBS",
+                                "gameId": "43,0,l",
+                                "groupId": ""
+                            },
+                            {
+                                "title": "IM电竞",
+                                "type": "goGame",
+                                "imgURL": "https://www.zzmtym.com/site/dj/APP/IMES.png",
+                                "codeTag": "IMESSPORT",
+                                "gameName": "IM电竞",
+                                "gameProvider": "IMES",
+                                "gameId": "ESPORTSBULL",
+                                "groupId": ""
+                            },
+							{
+								"title":"SBO电竞",
+								"type": "goGame",
+                                "imgURL": "https://www.zzmtym.com/site/dj/APP/SBOES.png",
+                                "codeTag": "SBOSPORT",
+                                "gameName": "SBO电竞",
+                                "gameProvider": "SBO",
+                                "gameId": "1",
+                                "groupId": ""
+							}
+                        ]
+                    },
+                    {
+                        "type": "RPentertainment",
+                        "title": "彩票",
+                        "elements": [
+                            {
+                                "title": "VR彩票",
+                                "type": "goGame",
+                                "imgURL": "https://www.zzmtym.com/site/dj/APP/VRLot.png",
+                                "codeTag": "VRLOTTERY",
+                                "gameName": "VR彩票",
+                                "gameProvider": "VR",
+                                "gameId": "3",
+                                "groupId": ""
+                            },
+							{
+								"title":"TC彩票",
+								"type":"goGame",
+								"imgURL": "https://www.zzmtym.com/site/dj/APP/TCLott.png",
+								"codeTag":"TCLOTTERY",
+								"gameName":"TC彩票",
+								"gameProvider":"TC",
+								"gameId":"2",
+								"groupId":""
+							}
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "支付渠道",
+        "type": "Pay",
+        "sections": [
+            {
+                "title": "网银",
+                "type": "0"
+            },
+            {
+                "title": "普通点卡",
+                "type": "1"
+            },
+            {
+                "title": "专业点卡",
+                "type": "2"
+            },
+            {
+                "title": "支付宝",
+                "type": "3",
+                "step": "3"
+            },
+            {
+                "title": "微信",
+                "type": "4",
+                "step": "4"
+            },
+            {
+                "title": "微信条码",
+                "type": "41",
+                "step": "4"
+            },
+            {
+                "title": "微信VIP",
+                "type": "42",
+                "step": "4"
+            },
+            {
+                "title": "微信秒充",
+                "type": "43"
+            },
+            {
+                "title": "银联",
+                "type": "5"
+            },
+            {
+                "title": "银联扫码",
+                "type": "6",
+                "step": "6"
+            },
+            {
+                "title": "QQ",
+                "type": "7"
+            },
+            {
+                "title": "Astropay",
+                "type": "8"
+            },
+            {
+                "title": "百度钱包",
+                "type": "9"
+            },
+            {
+                "title": "东京支付",
+                "type": "10"
+            },
+            {
+                "title": "支付宝转银行卡",
+                "type": "11"
+            },
+            {
+                "title": "虚拟货币",
+                "type": "15"
+            },
+            {
+                "title": "虚拟货币",
+                "type": "16"
+            },
+            {
+                "title": "CGPay",
+                "type": "17"
+            }
+        ]
+    },
+    {
+        "title": "游戏平台",
+        "type": "Gameprovider",
+        "sections": [
+            {
+                "name": "PT亚洲厅",
+                "gamecategory": "slot",
+                "gameprovider": "PT2"
+            },
+			{
+                "name": "PT国际厅",
+                "gamecategory": "slot",
+                "gameprovider": "PT4"
+            },
+            {
+                "name": "MG老虎机",
+                "gamecategory": "slot",
+                "gameprovider": "MGP"
+            },
+            {
+                "name": "HB老虎机",
+                "gamecategory": "slot",
+                "gameprovider": "HB"
+            },
+            {
+                "name": "PG老虎机",
+                "gamecategory": "slot",
+                "gameprovider": "PG"
+            },
+            {
+                "name": "BS老虎机",
+                "gamecategory": "slot",
+                "gameprovider": "BS"
+            },
+            {
+                "name": "CQ9老虎机",
+                "gamecategory": "slot",
+                "gameprovider": "CQ"
+            },
+            {
+                "name": "AE老虎机",
+                "gamecategory": "slot",
+                "gameprovider": "AE"
+            },
+            {
+                "name": "FG/NT/PNG老虎机",
+                "gamecategory": "slot",
+                "gameprovider": "FGH"
+            },
+            {
+                "name": "DT老虎机",
+                "gamecategory": "slot",
+                "gameprovider": "DT"
+            },
+			{
+                "name": "SW老虎机",
+                "gamecategory": "slot",
+                "gameprovider": "SW"
+            },
+            {
+                "name": "PP/SG老虎机",
+                "gamecategory": "slot",
+                "gameprovider": "IM"
+            },
+            {
+                "name": "PS老虎机",
+                "gamecategory": "slot",
+                "gameprovider": "PSR"
+            },
+            {
+                "name": "JDB老虎机",
+                "gamecategory": "slot",
+                "gameprovider": "JDBS"
+            },
+            {
+                "name": "AG真人",
+                "gamecategory": "live",
+                "gameprovider": "AG"
+            },
+            {
+                "name": "EBET真人",
+                "gamecategory": "live",
+                "gameprovider": "EB"
+            },
+            {
+                "name": "开元棋牌",
+                "gamecategory": "poker",
+                "gameprovider": "KY"
+            },
+            {
+                "name": "大奖棋牌",
+                "gamecategory": "poker",
+                "gameprovider": "LC"
+            },
+            {
+                "name": "乐游棋牌",
+                "gamecategory": "poker",
+                "gameprovider": "LEG"
+            },
+			{
+                "name": "高登棋牌",
+                "gamecategory": "poker",
+                "gameprovider": "GDQ"
+            },
+            {
+                "name": "MT棋牌/捕鱼",
+                "gamecategory": "poker",
+                "gameprovider": "MT"
+            },
+            {
+                "name": "VR彩票",
+                "gamecategory": "lottery",
+                "gameprovider": "VR"
+            },
+			{
+                "name": "TC彩票",
+                "gamecategory": "lottery",
+                "gameprovider": "TC"
+            },
+            {
+                "name": "AG捕鱼",
+                "gamecategory": "hunter",
+                "gameprovider": "AG"
+            },
+            {
+                "name": "JDB捕鱼",
+                "gamecategory": "hunter",
+                "gameprovider": "JDB"
+            },
+			{
+                "name": "TG捕鱼",
+                "gamecategory": "hunter",
+                "gameprovider": "TG"
+            },
+            {
+                "name": "沙巴体育/电竞",
+                "gamecategory": "SPORT",
+                "gameprovider": "SBS"
+            },
+			{
+                "name": "SBO体育/电竞",
+                "gamecategory": "SPORT",
+                "gameprovider": "SBS"
+            },
+            {
+                "name": "IM电竞",
+                "gamecategory": "SPORT",
+                "gameprovider": "IMES"
+            }
+        ]
+    },
+	{
+        "title": "游戏列表页",
+        "type": "GameListPage",
+        "sections": [
+			{
+				"title":"PT",
+				"page":[
+					{
+						"title":"PT4",
+						"name":"PT国际厅",
+						"codeTag":"PT4SLOT",
+						"platformId":3042,
+						"category":[
+							{
+								"cateName":"全部游戏",
+								"cateType":""
+							},
+							{
+								"cateName":"热门推荐",
+								"cateType":"Hot"
+							},
+							{
+								"cateName":"累积奖池",
+								"cateType":"Jackpot"
+							},
+							{
+								"cateName":"经典老虎机",
+								"cateType":"Classic"
+							}
+						]
+					},
+					{
+						"title":"PT2E",
+						"name":"PT亚洲厅",
+						"codeTag":"PT2ESLOT",
+						"platformId":40409,
+						"category":[
+							{
+								"cateName":"全部游戏",
+								"cateType":""
+							},
+							{
+								"cateName":"热门推荐",
+								"cateType":"Hot"
+							},
+							{
+								"cateName":"累积奖池",
+								"cateType":"Jackpot"
+							},
+							{
+								"cateName":"经典老虎机",
+								"cateType":"Classic"
+							}
+						]
+					}
+				]	
+			},
+			{
+				"title":"MG",
+				"page":[
+					{
+						"title":"MGP",
+						"name":"MG 老虎机",
+						"codeTag":"MGPSLOT",
+						"platformId":3710,
+						"category":[
+							{
+								"cateName":"热门推荐",
+								"cateType":"Hot"
+							},
+							{
+								"cateName":"累积奖池",
+								"cateType":"Jackpot"
+							},
+							{
+								"cateName":"固定奖池",
+								"cateType":"Fixed"
+							},
+							{
+								"cateName":"经典老虎机",
+								"cateType":"Classic"
+							}
+						]
+					}
+				]
+			},		
+			{
+				"title":"AE",
+				"page":[
+					{
+						"title":"AE",
+						"name":"AE 老虎机",
+						"codeTag":"AESLOT",
+						"platformId":259,
+						"category":[
+							{
+								"cateName":"全部游戏",
+								"cateType":"All"
+							},
+							{
+								"cateName":"热门推荐",
+								"cateType":"Hot"
+							},
+							{
+								"cateName":"经典老虎机",
+								"cateType":"Classic"
+							}
+						]
+					
+					}
+				]
+			},
+			{
+				"title":"PP",
+				"page":[
+					{
+						"title":"PP",
+						"name":"PP 老虎机",
+						"codeTag":"PPSLOT",
+						"platformId":200,
+						"gameProvider": "IM",
+						"category":[
+							{
+								"cateName":"热门推荐",
+								"cateType":"Hot"
+							},
+							{
+								"cateName":"经典老虎机",
+								"cateType":"Classic"
+							},
+							{
+								"cateName":"特色老虎机",
+								"cateType":"Featured"
+							}
+						]
+					}
+				]
+			},
+			{
+				"title":"HB",
+				"page":[
+					{
+						"title":"HB",
+						"name":"HB 老虎机",
+						"codeTag":"HBSLOT",
+						"platformId":226,
+						"category":[
+							{
+								"cateName":"热门推荐",
+								"cateType":"Hot"
+							},
+							{
+								"cateName":"经典老虎机",
+								"cateType":"Classic"
+							},
+							{
+								"cateName":"特色老虎机",
+								"cateType":"Featured"
+							}
+						]
+					}
+				]
+				
+			},
+			{
+				"title":"BS",
+				"page":[
+					{
+						"title":"BS",
+						"name":"BS 老虎机",
+						"codeTag":"BSSLOT",
+						"platformId":263,
+						"category":[
+							{
+								"cateName":"热门推荐",
+								"cateType":"Hot"
+							},
+							{
+								"cateName":"经典老虎机",
+								"cateType":"Classic"
+							},
+							{
+								"cateName":"3D老虎机",
+								"cateType":"3D"
+							}
+						]
+					}
+				]
+				
+			},
+			{
+				"title":"PG",
+				"page":[
+					{
+						"title":"PG",
+						"name":"PG 老虎机",
+						"codeTag":"PGSLOT",
+						"platformId":309,
+						"category":[
+							{
+								"cateName":"全部游戏",
+								"cateType":""
+							}
+						]
+					}
+				]
+			},
+			{
+				"title":"CQ9",
+				"page":[
+					{
+						"title":"CQ",
+						"name":"CQ9 老虎机",
+						"codeTag":"CQSLOT",
+						"platformId":271,
+						"category":[
+							{
+								"cateName":"热门推荐",
+								"cateType":"Hot"
+							},
+							{
+								"cateName":"累积奖池",
+								"cateType":"Jackpot"
+							},
+							{
+								"cateName":"经典老虎机",
+								"cateType":"Classic"
+							},
+							{
+								"cateName":"特色老虎机",
+								"cateType":"Featured"
+							}
+						]
+					}
+				]
+			},
+			{
+				"title":"FG",
+				"page":[
+					{
+						"title":"FGH",
+						"name":"FG 老虎机",
+						"codeTag":"FGSLOT",
+						"platformId":3012,
+						"gameProvider": "FGH",
+						"category":[
+							{
+								"cateName":"热门推荐",
+								"cateType":"Hot"
+							},
+							{
+								"cateName":"经典老虎机",
+								"cateType":"Classic"
+							},
+							{
+								"cateName":"3D老虎机",
+								"cateType":"Featured"
+							}
+						]
+					}
+				]
+			},
+			{
+				"title":"PNG",
+				"page":[
+					{
+						"title":"PNG",
+						"name":"PNG 老虎机",
+						"codeTag":"PNGSLOT",
+						"platformId":3081,
+						"gameProvider": "FGH",
+						"category":[
+							{
+								"cateName":"热门推荐",
+								"cateType":"Hot"
+							},
+							{
+								"cateName":"经典老虎机",
+								"cateType":"Classic"
+							},
+							{
+								"cateName":"特色老虎机",
+								"cateType":"Featured"
+							}
+						]
+					}
+				]
+			},
+			{
+				"title":"NT",
+				"page":[
+					{
+						"title":"Netent",	
+						"name":"NT 老虎机",
+						"codeTag":"NTSLOT",
+						"platformId":6894984,
+						"gameProvider": "FGH",
+						"category":[
+							{
+								"cateName":"热门推荐",
+								"cateType":"Hot"
+							},
+							{
+								"cateName":"经典老虎机",
+								"cateType":"Classic"
+							},
+							{
+								"cateName":"特色老虎机",
+								"cateType":"Featured"
+							}
+						]
+					}
+				]
+			},
+			{
+				"title":"SG",
+				"page":[
+					{
+						"title":"SG",
+						"name":"SG 老虎机",
+						"codeTag":"SGSLOT",
+						"platformId":231,
+						"gameProvider": "IM",
+						"category":[
+							{
+								"cateName":"热门推荐",
+								"cateType":"Hot"
+							},
+							{
+								"cateName":"经典老虎机",
+								"cateType":"Classic"
+							},
+							{
+								"cateName":"特色老虎机",
+								"cateType":"Featured"
+							}
+						]
+					}
+				]
+			},
+			{
+				"title":"DT",
+				"page":[
+					{
+						"title":"DT",
+						"name":"DT 老虎机",
+						"codeTag":"DTSLOT",
+						"platformId":284,
+						"category":[
+							{
+							"cateName":"热门推荐",
+							"cateType":"Hot"
+							},
+							{
+								"cateName":"经典老虎机",
+								"cateType":"Classic"
+							},
+							{
+								"cateName":"特色老虎机",
+								"cateType":"Featured"
+							}
+						]
+					}
+				]
+			},
+			{
+				"title":"SW",
+				"page":[
+					{
+						"title":"SWS",
+						"name":"SW 老虎机",
+						"codeTag":"SWSSLOT",
+						"platformId":3373,
+						"gameProvider": "SWS",
+						"category":[
+							{
+								"cateName":"豪赏会",
+								"cateType":"GRC"
+							},
+							{
+								"cateName":"热门推荐",
+								"cateType":"Hot"
+							},
+							{
+								"cateName":"累积奖池",
+								"cateType":"Jackpot"
+							},
+							{
+								"cateName":"经典老虎机",
+								"cateType":"Classic"
+							}
+						]
+					}
+				]
+			},
+			{
+				"title":"PS",
+				"page":[
+					{
+						"title":"PSR",
+						"name":"PS 老虎机",
+						"codeTag":"PSRSLOT",
+						"platformId":3032,
+						"category":[
+							{
+								"cateName":"热门推荐",
+								"cateType":"Hot"
+							},
+							{
+								"cateName":"累积奖池",
+								"cateType":"Jackpot"
+							},
+							{
+								"cateName":"经典老虎机",
+								"cateType":"Classic"
+							}
+						]
+					}
+				]
+			},
+			{
+				"title":"JDB",
+				"page":[
+					{
+						"title":"JDBS",
+						"name":"JDB 老虎机",
+						"codeTag":"JDBSSLOT",
+						"platformId":44863,
+						"category":[
+							{
+								"cateName":"热门推荐",
+								"cateType":"Hot"
+							},
+							{
+								"cateName":"经典老虎机",
+								"cateType":"Classic"
+							}
+						]
+					}
+				]
+			},
+			{
+				"title":"MT捕鱼",
+				"page":[
+					{
+						"title":"MTF",
+						"name":"MT捕鱼",
+						"codeTag":"MTHUNTER",
+						"platformId":3240,
+						"gameProvider": "MT",
+						"category":[
+							{
+								"cateName":"全部游戏",
+								"cateType":"all"
+							}
+						]
+					}
+				]
+			},
+			{
+				"title":"JDB捕鱼",
+				"page":[
+					{
+						"title":"JDB",
+						"name":"JDB捕鱼",
+						"codeTag":"JDBHUNTER",
+						"platformId":3431,
+						"category":[
+							{
+								"cateName":"全部游戏",
+								"cateType":"all"
+							}
+						]
+					}
+				]
+			},
+			{
+				"title":"TG捕鱼",
+				"page":[
+					{
+						"title":"TG",
+						"name":"TG捕鱼",
+						"preview": 2,
+						"codeTag":"TGHUNTER",
+						"platformId":241,
+						"category":[
+							{
+								"cateName":"全部游戏",
+								"cateType":"all"
+							}
+						]
+					}
+				]
+			},
+			{
+				"title":"大奖棋牌",
+				"page":[
+					{
+						"title":"LC",
+						"name":"大奖棋牌",
+						"codeTag":"LCPOKER",
+						"platformId":212,
+						"category":[
+							{
+								"cateName":"全部游戏",
+								"cateType":"all"
+							}
+						]
+					}
+				]
+			},
+			{
+				"title":"美天棋牌",
+				"page":[
+					{
+						"title":"MT",
+						"name":"美天棋牌",
+						"codeTag":"MTPOKER",
+						"platformId":224,
+						"gameProvider": "MT",
+						"category":[
+							{
+								"cateName":"棋牌游戏",
+								"cateType":"CARD GAMES"
+							},
+							{
+								"cateName":"百人大战",
+								"cateType":"MULTI PLAYERS"
+							}
+						]
+					}
+				]
+			},
+			{
+				"title":"开元棋牌",
+				"page":[
+					{
+						"title":"KY",
+						"name":"开元棋牌",
+						"codeTag":"KYPOKER",
+						"platformId":3599,
+						"category":[
+							{
+								"cateName":"全部游戏",
+								"cateType":"all"
+							}
+						]
+					}
+				]
+			},
+			{
+				"title":"乐游棋牌",
+				"page":[
+					{
+						"title":"LEG",
+						"name":"乐游棋牌",
+						"codeTag":"LEGPOKER",
+						"platformId":3141,
+						"category":[
+							{
+								"cateName":"全部游戏",
+								"cateType":"all"
+							}
+						]
+					}
+				]
+			},
+			{
+				"title":"高登棋牌",
+				"page":[
+					{
+						"title":"GDQ",
+						"name":"高登棋牌",
+						"preview": 2,
+						"codeTag":"GDQPOKER",
+						"platformId":3181,
+						"category":[
+							{
+								"cateName":"全部游戏",
+								"cateType":"all"
+							}
+						]
+					}
+				]
+			}
+		]   
+	},
+	{
+        "title": "我的收藏排序表",
+        "type": "FavoriteGameOrderBy",
+        "sections": [
+			{
+				"PT2E":
+				{
+					"order":1,
+					"name":"PT",
+					"codeTag":"PT2ESLOTTags"
+				},
+				"PT4":
+				{
+					"order":2,
+					"name":"PT",
+					"codeTag":"PT4SLOTTags"
+				},
+				"CQ":
+				{
+					"order":3,
+					"name":"CQ",
+					"codeTag":"CQSLOTTags"
+				},
+				"MGP":
+				{
+					"order":4,
+					"name":"MG",
+					"codeTag":"MGPSLOTTags"
+				},
+				"DT":
+				{
+					"order":5,
+					"name":"DT",
+					"codeTag":"DTSLOTTags"
+				},
+				"SWS":
+				{
+					"order":6,
+					"name":"SW",
+					"codeTag":"SWSSLOTTags"
+				},
+				"JDBS":
+				{
+					"order":7,
+					"name":"JDBS",
+					"codeTag":"JDBSSLOTTags"
+				},
+				"PG":
+				{
+					"order":8,
+					"name":"PG",
+					"codeTag":"PGSLOTTags"
+				},
+				"HB":
+				{
+					"order":9,
+					"name":"HB",
+					"codeTag":"HBSLOTTags"
+				},
+				"PP":
+				{
+					"order":10,
+					"name":"PP",
+					"codeTag":"PPSLOTTags"
+				},
+				"PSR":
+				{
+					"order":11,
+					"name":"PSR",
+					"codeTag":"PSRSLOTTags"
+				},
+				"AE":
+				{
+					"order":12,
+					"name":"AE",
+					"codeTag":"AESLOTTags"
+				},
+				"BS":
+				{
+					"order":13,
+					"name":"BS",
+					"codeTag":"BSSLOTTags"
+				},
+				"SG":{
+					"order":14,
+					"name":"SG",
+					"codeTag":"SGSLOTTags"
+				},
+				"LC":{
+					"order":15,
+					"name":"大奖",
+					"codeTag":"LCPOKERTags"
+				},
+				"KY":{
+					"order":16,
+					"name":"开元",
+					"codeTag":"KYPOKERTags"
+				},
+				"JDB":
+				{
+					"order":17,
+					"name":"JDB",
+					"codeTag":"JDBHUNTERTags"
+				},
+				"PNG":
+				{
+					"order":18,
+					"name":"PNG",
+					"codeTag":"PNGSLOTTags"
+				},
+				"LEG":
+				{
+					"order":19,
+					"name":"乐游",
+					"codeTag":"LEGPOKERTags"
+				},
+				"NETENT":
+				{
+					"order":20,
+					"name":"NT",
+					"codeTag":"NTSLOTTags"
+				},
+				"FGH":
+				{
+					"order":21,
+					"name":"FG",
+					"codeTag":"FGSLOTTags"
+				},
+				"MT":
+				{
+					"order":22,
+					"name":"美天",
+					"codeTag":"MTPOKERTags"
+				},
+				"MTF":
+				{
+					"order":23,
+					"name":"MTF",
+					"codeTag":"MTHUNTERTags"
+				},
+				"TG":
+				{
+					"order":24,
+					"name":"TG",
+					"codeTag":"TGHUNTERTags"
+				},
+				"GDQ":
+				{
+					"order":25,
+					"name":"GDQ",
+					"codeTag":"GDQPOKERTags"
+				}
+			}
+		]
+	}
+]
